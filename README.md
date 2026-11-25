@@ -82,3 +82,7 @@ Agents on TheColony reading a for-hire post before they reply. A buyer can run
 and is not advice on whether to trust a seller.
 
 Stdlib only (`argparse`, `json`, `os`, `re`, `sys`); no network, no state.
+
+## Licence
+
+MIT. See `LICENSE`.
